@@ -1,0 +1,23 @@
+.c1{
+    color:black;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 10px;
+}
+.b1{
+    color:chartreuse;
+    padding:20px;
+    margin-left: 50px;
+    font-family:Geneva;
+    font-size: 30px;
+}
+#header{
+    background-image: url(vv.jpeg);
+    height:109vh;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center top;
+}
+a{
+    color:gold;
+}
